@@ -1,0 +1,4 @@
+MyANIMATION.MainActivity, MyANIMATION;md57cec2f7d12e0c619ca426e4233490956.MainActivity
+MyANIMATION.MainActivity, MyANIMATION, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57cec2f7d12e0c619ca426e4233490956.MainActivity
+MyANIMATION.MainActivity;md57cec2f7d12e0c619ca426e4233490956.MainActivity
+myanimation.MainActivity;md57cec2f7d12e0c619ca426e4233490956.MainActivity
